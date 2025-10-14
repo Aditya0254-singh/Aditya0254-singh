@@ -11,9 +11,9 @@
 - 🎓 Final year B.Tech CSE student at Jaipur Engineering College  
 - 💻 Passionate about building **scalable full-stack applications** using Java, Spring Boot, React, and AWS  
 - 🧠 Learning DevOps, Cloud Architecture, and Data Engineering  
-- 👨‍💻 Currently working on: **[Project Name or Internship]**  
-- 📫 Reach me at: **your.email@example.com**  
-- 🌐 Portfolio: [your website link if available]()
+- 👨‍💻 Currently working on: **Corizo AWS Project**  
+- 📫 Reach me at: **adityasinghgzp609@gmail.com**  
+- 🌐 Portfolio: [https://subspace-vite-chatbot.netlify.app/],[saas-note-app-ffx8-bvvwgmcdr-aditya0254-singhs-projects.vercel.app]
 
 ---
 
@@ -50,10 +50,10 @@ Here are some of my top projects:
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/aditya-singh-baa980257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:adityasinghgzp609@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
