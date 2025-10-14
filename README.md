@@ -13,7 +13,7 @@
 - 🧠 Learning DevOps, Cloud Architecture, and Data Engineering  
 - 👨‍💻 Currently working on: **Corizo AWS Project**  
 - 📫 Reach me at: **adityasinghgzp609@gmail.com**  
-- 🌐 Portfolio: [https://subspace-vite-chatbot.netlify.app/],[saas-note-app-ffx8-bvvwgmcdr-aditya0254-singhs-projects.vercel.app]
+- 🌐 Portfolio: [https://subspace-vite-chatbot.netlify.app/], [saas-note-app-ffx8-bvvwgmcdr-aditya0254-singhs-projects.vercel.app]
 
 ---
 
@@ -40,17 +40,16 @@
 ### 🌟 Featured Projects
 Here are some of my top projects:
 
-- 🛍️ [**Order Management System**](https://github.com/Aditya0254-singh/order-management-system) — Spring Boot + React + AWS + CI/CD  
-- 🤖 [**WhatsApp Chatbot**](https://github.com/Aditya0254-singh/whatsapp-bot-springboot) — Integrated with Meta API & Firebase  
-- 🏫 [**Coaching Class Android App**](https://github.com/Aditya0254-singh/coaching-app) — Firebase + Android Java
-
+- 🛍️ [**Spotify_Clone**](https://github.com/Aditya0254-singh/spotify_clone) — Java + MAVEN + Swing + Spotify Developer API
+- 🤖 [**WhatsApp Chatbot**](https://github.com/Aditya0254-singh/WhatsAppBot) — Integrated with Meta API & Firebase  
+- 🏫 [**Subspace_Vite_Chatbot**](https://github.com/Aditya0254-singh/SubSpace-chatbot) — Nhost + n8n + REACT + Vite 
 > 👉 Click on any project to see code, architecture, and live demos.
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/aditya-singh-baa980257/" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-singh-baa980257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:adityasinghgzp609@gmail.com">
