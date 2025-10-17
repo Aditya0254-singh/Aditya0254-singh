@@ -38,7 +38,7 @@
 > A full-stack **Spring Boot** chatbot integrated with the **Meta WhatsApp Business API** and **Firebase**, capable of sending and receiving messages in real time.
 
 #### 🎵 [Spotify Clone](https://github.com/Aditya0254-singh/spotify_clone)
-> A **React + JavaScript** based Spotify front-end clone replicating the UI and core music player functionalities of Spotify.
+> A **React + Java** based Spotify front-end clone replicating the UI and core music player functionalities of Spotify.
 
 #### 💬 [SubSpace Chatbot](https://github.com/Aditya0254-singh/SubSpace-chatbot)
 > A chatbot platform demonstrating **real-time interactions** and **AI-powered responses** using modern web technologies.
