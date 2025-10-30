@@ -46,6 +46,9 @@
 #### 🔔 [Push Notification App](https://github.com/Aditya0254-singh/PushNotifApp)
 > A mobile app using **Firebase Cloud Messaging** to implement real-time push notifications with a clean UI and responsive behavior.
 
+#### 🌍 [Book-It App](https://github.com/Aditya0254-singh/BookIt_App)
+> A full-stack MERN application for booking unique experiences, featuring secure authentication, dynamic listings, and a seamless user experience with ** React, Node.js, Express, and MongoDB **.
+
 ---
 
 ### 📈 GitHub Stats
