@@ -1,88 +1,85 @@
-<h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-<h3 align="center">Final Year Computer Science Student | Full Stack Developer | Java | Spring Boot | React | AWS</h3>
+# Hi 👋, I'm Aditya Singh
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditya0254-singh&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya0254-singh" />
-</p>
+### Backend Software Engineer | Java · Spring Boot · REST APIs | Recent Computer Science Graduate
 
 ---
 
-### 🚀 About Me
-- 🎓 Final year **B.Tech CSE** student passionate about building **scalable full-stack applications**  
-- 💻 Skilled in **Java**, **Spring Boot**, **React**, **Node.js**, and **AWS Cloud**  
-- 🌱 Currently exploring **Cloud Architecture & DevOps** for end-to-end deployments  
-- 🧠 Love solving problems, building real-world applications, and contributing to open source  
-- 📫 Reach me at **[adityasinghgzp609@gmail.com](mailto:adityasinghgzp609@gmail.com)**  
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-singh-baa980257)
+## 👨‍💻 About Me
+
+- 🎓 Recent B.Tech Computer Science graduate focused on Backend Software Engineering.
+- 💻 Experienced in building REST APIs with Java, Spring Boot, FastAPI, Node.js, PostgreSQL, and MySQL.
+- ⚙️ Comfortable across the stack with React and TypeScript for building modern web applications.
+- 🚀 Recent work includes developing a multi-tenant SaaS backend during my internship, an AI-assisted CRM platform, and a full-stack booking application.
+- 🌱 Currently strengthening my knowledge of Spring Boot, SQL optimization, backend architecture, scalable API design, and AWS.
+- 📫 Reach me at **adityasinghgzp609@gmail.com**
+- 🌐 LinkedIn: **https://www.linkedin.com/in/aditya-singh-baa980257**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
----
-
-### 🌟 Featured Projects
-
-#### 🧠 [WhatsApp Bot](https://github.com/Aditya0254-singh/WhatsAppBot)
-> A full-stack **Spring Boot** chatbot integrated with the **Meta WhatsApp Business API** and **Firebase**, capable of sending and receiving messages in real time.
-
-#### 🎵 [Spotify Clone](https://github.com/Aditya0254-singh/spotify_clone)
-> A **React + Java** based Spotify front-end clone replicating the UI and core music player functionalities of Spotify.
-
-#### 💬 [SubSpace Chatbot](https://github.com/Aditya0254-singh/SubSpace-chatbot)
-> A chatbot platform demonstrating **real-time interactions** and **AI-powered responses** using modern web technologies.
-
-#### 🔔 [Push Notification App](https://github.com/Aditya0254-singh/PushNotifApp)
-> A mobile app using **Firebase Cloud Messaging** to implement real-time push notifications with a clean UI and responsive behavior.
-
-#### 🌍 [Book-It App](https://github.com/Aditya0254-singh/BookIt_App)
-> A full-stack MERN application for booking unique experiences, featuring secure authentication, dynamic listings, and a seamless user experience with ** React, Node.js, Express, and MongoDB **.
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+# 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya0254-singh&show_icons=true&theme=radical" alt="Aditya's GitHub stats" />
-</p>
+## 🩺 AI-CRM-HCP
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya0254-singh&theme=radical" alt="GitHub Streak" />
-</p>
+**Tech Stack:** FastAPI • LangGraph • Groq API • PostgreSQL • React
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya0254-singh&theme=onedark" alt="GitHub Trophies" />
-</p>
+AI-assisted CRM module for logging healthcare professional (HCP) interactions through structured forms and conversational input. Uses LangGraph with the Groq API to transform free-text conversations into structured fields, supported by a modular FastAPI backend and PostgreSQL.
+
+🔗 Repository: **https://github.com/Aditya0254-singh/AI-CRM-HCP**
 
 ---
 
-### 🌐 Connect with Me
+## 📅 BookIt_App
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-singh-baa980257" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:adityasinghgzp609@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Aditya0254-singh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+**Tech Stack:** React • TypeScript • Express.js • PostgreSQL • Prisma ORM
+
+Full-stack experience booking platform built as part of a full-stack technical assessment. Features experience listings, slot-based availability, booking workflows, relational database modeling with Prisma ORM, promo code support, and centralized API error handling.
+
+🔗 Repository: **https://github.com/Aditya0254-singh/BookIt_App**
 
 ---
 
-<p align="center">⭐ If you like my work, consider giving my repositories a star!</p>
+## 💬 WhatsAppBot
+
+**Tech Stack:** Java • Spring Boot • Firebase • WhatsApp Business API
+
+Spring Boot components for a WhatsApp Business API bot including a webhook receiver, outbound Graph API messaging service, and Firebase Admin SDK initialization. The project is currently evolving toward a complete end-to-end automated messaging workflow.
+
+🔗 Repository: **https://github.com/Aditya0254-singh/WhatsAppBot**
+
+---
+
+# 📊 GitHub Stats
+
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya0254-singh&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya0254-singh&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-singh-baa980257)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasinghgzp609@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya0254-singh)
 
 
