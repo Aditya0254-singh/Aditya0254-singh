@@ -57,7 +57,9 @@ AI-assisted CRM module for logging healthcare professional (HCP) interactions th
 
 Full-stack experience booking platform built as part of a full-stack technical assessment. Features experience listings, slot-based availability, booking workflows, relational database modeling with Prisma ORM, promo code support, and centralized API error handling.
 
-🔗 Repository: **https://github.com/Aditya0254-singh/BookIt_App**
+🌐 Case Study: https://aditya-portfolio-zeta-ecru.vercel.app/projects/bookit
+
+🔗 Repository: https://github.com/Aditya0254-singh/BookIt_App
 
 ---
 
