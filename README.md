@@ -69,7 +69,9 @@ Full-stack experience booking platform built as part of a full-stack technical a
 
 Spring Boot components for a WhatsApp Business API bot including a webhook receiver, outbound Graph API messaging service, and Firebase Admin SDK initialization. The project is currently evolving toward a complete end-to-end automated messaging workflow.
 
-🔗 Repository: **https://github.com/Aditya0254-singh/WhatsAppBot**
+🌐 Case Study: https://aditya-portfolio-zeta-ecru.vercel.app/projects/whatsapp-chatbot-backend
+
+🔗 Repository: https://github.com/Aditya0254-singh/WhatsAppBot
 
 ---
 
