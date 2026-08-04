@@ -2,6 +2,8 @@
 
 ### Backend Software Engineer | Java · Spring Boot · REST APIs | Recent Computer Science Graduate
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-000000?style=for-the-badge&logo=vercel)](https://aditya-portfolio-zeta-ecru.vercel.app/)
+
 ---
 
 ## 👨‍💻 About Me
