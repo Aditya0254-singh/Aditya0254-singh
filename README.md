@@ -45,7 +45,9 @@
 
 AI-assisted CRM module for logging healthcare professional (HCP) interactions through structured forms and conversational input. Uses LangGraph with the Groq API to transform free-text conversations into structured fields, supported by a modular FastAPI backend and PostgreSQL.
 
-🔗 Repository: **https://github.com/Aditya0254-singh/AI-CRM-HCP**
+🌐 Case Study: https://aditya-portfolio-zeta-ecru.vercel.app/projects/ai-first-crm
+
+🔗 Repository: https://github.com/Aditya0254-singh/AI-CRM-HCP
 
 ---
 
