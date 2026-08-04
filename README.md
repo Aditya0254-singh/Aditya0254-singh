@@ -67,7 +67,7 @@ Full-stack experience booking platform built as part of a full-stack technical a
 
 **Tech Stack:** Java • Spring Boot • Firebase • WhatsApp Business API
 
-Spring Boot components for a WhatsApp Business API bot including a webhook receiver, outbound Graph API messaging service, and Firebase Admin SDK initialization. The project is currently evolving toward a complete end-to-end automated messaging workflow.
+Multi-tenant WhatsApp chatbot backend built using Spring Boot. The project includes webhook handling, JWT-based authentication, role-based access control, WhatsApp Business API integration, MySQL persistence, and Firebase services for scalable business messaging workflows.
 
 🌐 Case Study: https://aditya-portfolio-zeta-ecru.vercel.app/projects/whatsapp-chatbot-backend
 
