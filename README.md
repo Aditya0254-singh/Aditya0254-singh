@@ -14,7 +14,8 @@
 - 🚀 Recent work includes developing a multi-tenant SaaS backend during my internship, an AI-assisted CRM platform, and a full-stack booking application.
 - 🌱 Currently strengthening my knowledge of Spring Boot, SQL optimization, backend architecture, scalable API design, and AWS.
 - 📫 Reach me at **adityasinghgzp609@gmail.com**
-- 🌐 LinkedIn: **https://www.linkedin.com/in/aditya-singh-baa980257**
+- 🌐 Portfolio: **https://aditya-portfolio-zeta-ecru.vercel.app/**
+- 💼 LinkedIn: **https://www.linkedin.com/in/aditya-singh-baa980257**
 
 ---
 
